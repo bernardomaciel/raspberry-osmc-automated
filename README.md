@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ab7e1bd40fc4d7ca78f4359a992b520)](https://www.codacy.com/app/bernardo.maciel/raspberry-osmc-automated?utm_source=github.com&utm_medium=referral&utm_content=bernardomaciel/raspberry-osmc-automated&utm_campaign=badger)
 [![Circle CI](https://circleci.com/gh/alombarte/raspberry-osmc-automated.svg?style=svg)](https://circleci.com/gh/alombarte/raspberry-osmc-automated)
 
 Setup of a **media center**  with **automated episode downloads** in the background.
